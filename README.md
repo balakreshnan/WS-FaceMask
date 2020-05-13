@@ -29,6 +29,8 @@ My goal is to show you a simple and easy way to get this moving using Azure cogn
 
 ## Upload images
 
+Sample images are available: https://github.com/balakreshnan/WS-FaceMask/tree/master/samplesimages
+
 ![alt text](https://github.com/balakreshnan/WS-FaceMask/blob/master/images/Capture.JPG "list of images")
 
 ## Drawing bounding box samples
