@@ -27,5 +27,26 @@ My goal is to show you a simple and easy way to get this moving using Azure cogn
 - Analyze model output for accuracy
 - Click Quick Test 
 
-Upload images
+## Upload images
 
+![alt text](https://github.com/balakreshnan/WS-FaceMask/blob/master/images/Capture.JPG "list of images")
+
+## Drawing bounding box samples
+
+![alt text](https://github.com/balakreshnan/WS-FaceMask/blob/master/images/fm1.jpg "Face Mask")
+
+![alt text](https://github.com/balakreshnan/WS-FaceMask/blob/master/images/fm2.jpg "Face Mask")
+
+## Training output
+
+![alt text](https://github.com/balakreshnan/WS-FaceMask/blob/master/images/output1.jpg "Training Accuracy")
+
+## Validate and Test Models:
+
+I downloaded new images that model hasn't seen
+
+![alt text](https://github.com/balakreshnan/WS-FaceMask/blob/master/images/validation.jpg "Test")
+
+![alt text](https://github.com/balakreshnan/WS-FaceMask/blob/master/images/validation1.jpg "Vaidation")
+
+## Export models and consume in other AI@Edge Devices.
