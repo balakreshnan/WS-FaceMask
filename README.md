@@ -19,7 +19,7 @@ My goal is to show you a simple and easy way to get this moving using Azure cogn
 - Create a Cognitive resource in the Azure Portal
 - log into customvision.ai
 - Create a new project 
-- Select object detection with Compact S2 (newer version at the time of this article)
+- Select object detection with Compact S1 (newer version at the time of this article)
 - Upload the images
 - Create a tag called FaceMask
 - Go over each image and draw bounding box and assign tags
