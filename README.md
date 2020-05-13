@@ -4,7 +4,11 @@ Face Mask Detection project
 
 ## Use Case
 
-Detect poeple wearing face mask when entering into a facility. This is to protect humans from various virus, checmicals and other airborne particles.
+Detect poeple wearing face mask when entering into a facility. This is to protect humans from various virus, checmicals and other airborne particles. Also ability to get other sensors like temperature, humidty , occupancy sensor, Sound for cough and sneeze could add a lot of value for contact tracing. Occupancy sensor can be used for social distancing.
+
+## Architecture
+
+![alt text](https://github.com/balakreshnan/WS-FaceMask/blob/master/images/wsfacemask.jpg "Architecture")
 
 ## Steps
 
